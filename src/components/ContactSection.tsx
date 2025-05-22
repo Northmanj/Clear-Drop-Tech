@@ -20,12 +20,9 @@ export default function ContactSection() {
           <div className="space-y-4 text-gray-300">
             <div className="flex items-center gap-4">
               <PhoneIcon className="h-6 w-6 text-indigo-400" />
-              <span>+254 712 345 678</span>
+              <span>+254 736765273</span>
             </div>
-            <div className="flex items-center gap-4">
-              <EnvelopeIcon className="h-6 w-6 text-indigo-400" />
-              <span>info@cleardroptech.com</span>
-            </div>
+           
             <div className="flex items-center gap-4">
               <MapPinIcon className="h-6 w-6 text-indigo-400" />
               <span>Nairobi, Kenya</span>
@@ -34,7 +31,7 @@ export default function ContactSection() {
         </div>
 
         <form
-          action="https://formspree.io/f/your-form-id" // Replace with your actual Formspree ID to be done by paul
+          action="https://formspree.io/f/xyzwazqb" // Replace with your actual Formspree ID to be done by paul
           method="POST"
           className="bg-gray-800 p-6 rounded-lg shadow-md space-y-6"
         >
@@ -88,6 +85,7 @@ export default function ContactSection() {
           >
             Send Message
           </button>
+          <input type="hidden" name="_next" value="https://yourwebsite.com/thank-you" />
         </form>
       </div>
     </section>

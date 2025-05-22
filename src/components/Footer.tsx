@@ -12,7 +12,7 @@ export default function Footer() {
         
         <div className="flex items-center space-x-6">
           <a
-            href="https://linkedin.com/in/your-username"
+            href="https://linkedin.com/in/gregory-john-b48b45365"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition"
@@ -20,21 +20,14 @@ export default function Footer() {
             <FaLinkedin size={22} />
           </a>
           <a
-            href="https://github.com/your-username"
+            href="https://github.com/Northmanj"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition"
           >
             <FaGithub size={22} />
           </a>
-          <a
-            href="https://x.com/your-username"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:text-white transition"
-          >
-            <FaTwitter size={22} />
-          </a>
+          
         </div>
 
         
