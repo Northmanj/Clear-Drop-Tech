@@ -13,7 +13,7 @@ const teamMembers = [
     name: 'Dan Wahome',
     role: 'Graphic Designer',
     image: '/images/dante.png',
-    whatsapp: 'https://wa.me/0736765273',
+    whatsapp: 'https://wa.me/0795687274',
     twitter: 'https://twitter.com/Dante',
     instagram: 'https://instagram.com/Dante',
   },

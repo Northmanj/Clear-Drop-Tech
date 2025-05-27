@@ -18,7 +18,7 @@ export default function Home() {
   
   <div className="flex flex-col items-center md:items-start md:w-1/2 text-center md:text-left space-y-4">
     <img
-      src="/images/logo.png" // actual logo pedding
+      src="/images/image.PNG" // actual logo pedding
       alt="Clear Drop Tech Logo"
       className="h-100 w-100 mb-4"
     />
