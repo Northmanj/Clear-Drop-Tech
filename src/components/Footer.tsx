@@ -3,7 +3,7 @@
 import {
   ArrowTopRightOnSquareIcon,
 } from '@heroicons/react/24/outline';
-import { FaLinkedin, FaGithub, FaTwitter } from 'react-icons/fa';
+
 
 export default function Footer() {
   return (
