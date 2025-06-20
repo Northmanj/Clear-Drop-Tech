@@ -14,13 +14,18 @@ export default function ContactSection() {
         <div>
           <h2 className="text-3xl font-bold mb-6">Contact Us</h2>
           <p className="text-gray-400 mb-6">
-            We'd love to hear from you! Whether you have a question, a project, or just want to say hello.
+            We would love to hear from you! Whether you have a question, a project, or just want to say hello.
           </p>
 
           <div className="space-y-4 text-gray-300">
             <div className="flex items-center gap-4">
               <PhoneIcon className="h-6 w-6 text-indigo-400" />
               <span>+254 736765273</span>
+            </div>
+            <div className='flex items-center gap-4'>
+              < EnvelopeIcon className='h-6 text-indigo-400'/>
+              <span>cleardroptech@gmail.com</span>
+
             </div>
            
             <div className="flex items-center gap-4">

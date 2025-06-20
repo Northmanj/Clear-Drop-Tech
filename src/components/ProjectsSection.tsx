@@ -48,7 +48,7 @@ export default function ProjectsSection() {
       <div className="max-w-6xl mx-auto text-center">
         <h2 className="text-3xl font-bold mb-6">Our Projects</h2>
         <p className="text-lg text-gray-400 mb-12">
-          We've successfully delivered a range of projects that showcase our expertise in various technologies and design principles.
+          We have successfully delivered a range of projects that showcase our expertise in various technologies and design principles.
         </p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">

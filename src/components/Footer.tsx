@@ -1,10 +1,5 @@
 'use client';
 
-import {
-  ArrowTopRightOnSquareIcon,
-} from '@heroicons/react/24/outline';
-
-
 export default function Footer() {
   return (
     <footer className="bg-gray-950 text-gray-300 py-8 px-6">

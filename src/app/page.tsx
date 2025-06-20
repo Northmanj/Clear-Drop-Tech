@@ -5,6 +5,9 @@ import AboutCompany from '../components/AboutCompany'
 import ProjectsSection from '@/components/ProjectsSection'
 import ContactSection from '@/components/ContactSection'
 import Footer from '@/components/Footer'
+import WhatsAppPopup from '@/components/WhatsApp'
+
+
 export default function Home() {
   return (
     <>
@@ -51,12 +54,12 @@ export default function Home() {
   </ul>
 
   <p className="text-gray-300">
-    Whether you're a startup, a growing business, or an individual looking to create a professional digital footprint — we're here to help you bring your vision to life.
+    Whether you are a startup, a growing business, or an individual looking to create a professional digital footprint — we are here to help you bring your vision to life.
   </p>
 </div>
 
 </main>
-
+<WhatsAppPopup/>
 <AboutSection />
 <AboutCompany />
 <ProjectsSection />
