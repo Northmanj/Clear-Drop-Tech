@@ -59,7 +59,7 @@ export default function Home() {
 </div>
 
 </main>
-<WhatsAppPopup/>
+<WhatsAppPopup />
 <AboutSection />
 <AboutCompany />
 <ProjectsSection />
