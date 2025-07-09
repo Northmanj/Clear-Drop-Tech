@@ -18,6 +18,7 @@ export default function Navbar() {
         <Link href="/">Home</Link>
         <Link href="#AboutSection">About</Link>
         <Link href="#ContactSection">Contact</Link>
+        <Link href="/marketing">Market</Link>
       </div>
     </nav>
   );
