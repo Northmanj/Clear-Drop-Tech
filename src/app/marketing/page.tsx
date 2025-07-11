@@ -73,7 +73,7 @@ export default function MarketingPage() {
         </motion.p>
       </section>
       <section className="py-20 bg-gray-100 text-center">
-        <h2 className="text-3xl font-bold mb-4">Get in Touch</h2>
+        <h2 className="text-3xl font-bold mb-4">Whats News</h2>
         <div className="flex items-center justify-center min-h-screen bg-black-100">
         <img
       src="/images/DeepFake clear.PNG" // actual logo pedding
