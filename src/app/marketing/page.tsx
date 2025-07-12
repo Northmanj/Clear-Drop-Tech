@@ -74,21 +74,36 @@ export default function MarketingPage() {
       </section>
       <section className="py-20 bg-gray-100 text-center">
         <h2 className="text-3xl font-bold mb-4">Whats News</h2>
-        <div className="flex items-center justify-center min-h-screen bg-black-100">
+        
+    
+    <div className="bg-gray-900 text-white rounded-2xl shadow-lg p-6 max-w-2xl mx-auto my-10">
+      <div className="flex items-center justify-center min-h-screen bg-black-100">
         <img
       src="/images/DeepFake clear.PNG" // actual logo pedding
       alt="Centered Image"
       className="h-100 w-100 mb-4"
     />
     </div>
-    <div className="bg-gray-900 text-white rounded-2xl shadow-lg p-6 max-w-2xl mx-auto my-10">
       <h2 className="text-2xl font-semibold mb-4">DeepFake Detection Web App</h2>
       <p className="text-gray-300 leading-relaxed">
         DeepFake Detection Web App is an AI-powered platform designed to identify manipulated or synthetic media content, particularly videos and images altered using deep learning techniques. It serves journalists, content reviewers, security agencies, and everyday users seeking to verify authenticity. By uploading media, the app analyzes content using trained AI models to detect facial inconsistencies, artifacts, and audio mismatches. Results are displayed in a visual dashboard, helping users assess whether the content is real or artificially generated.
       </p>
       <a href="https://deep-fake-qm56.vercel.app" className="text-blue-600 underline">Live Demo</a>
+    </div  >
+    <div className="bg-gray-900 text-white rounded-2xl shadow-lg p-6 max-w-2xl mx-auto my-10">
+      <div className="flex items-center justify-center min-h-screen bg-black-100">
+        <img
+      src="/images/clear_drop_tech_qr.png" // actual logo pedding
+      alt="Centered Image"
+      className="h-100 w-100 mb-4"
+    />
     </div>
-        
+      <h2 className="text-2xl font-semibold mb-4">QR Payment System for Lounges</h2>
+      <p className="text-gray-300 leading-relaxed">
+       This QR-based payment system simplifies transactions for lounges and hospitality venues. Guests scan a code to pay instantly via M-Pesa, access digital menus, connect to Wi-Fi, and even book VIP services—all through their phone. The system reduces service delays, enhances guest experience, and allows managers to track payments and engagement in real time.
+      </p>
+</div>
+
       </section>
 
       {/* Product Section */}
