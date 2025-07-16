@@ -6,6 +6,7 @@ import ProjectsSection from '@/components/ProjectsSection'
 import ContactSection from '@/components/ContactSection'
 import Footer from '@/components/Footer'
 import WhatsAppPopup from '@/components/WhatsApp'
+import PackagesSection from '@/components/PackagesSection'
 
 
 export default function Home() {
@@ -62,6 +63,7 @@ export default function Home() {
 <WhatsAppPopup />
 <AboutSection />
 <AboutCompany />
+<PackagesSection/>
 <ProjectsSection />
 <ContactSection />
 <Footer />      
