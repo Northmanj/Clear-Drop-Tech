@@ -28,7 +28,7 @@ export default function PackagesSection() {
           </ul>
 
           <div className="mt-6 space-y-2 text-sm">
-            <p> <strong>Location:</strong> Rongai, Nairobi</p>
+            <p> <strong>Location:</strong> Online Classes</p>
             <p> <strong>Duration:</strong> 2 - 4 Weeks</p>
             <p><strong>Fee:</strong> From Ksh 1,000</p>
             <p><strong>Certificate:</strong> Provided upon completion</p>
