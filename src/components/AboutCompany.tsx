@@ -9,14 +9,7 @@ const teamMembers = [
     
     instagram: 'https://instagram.com/gregory_oundo',
   },
-  {
-    name: 'Dan Wahome',
-    role: 'Graphic Designer',
-    image: '/images/dante.png',
-    whatsapp: 'https://wa.me/0795687274',
-    twitter: 'https://twitter.com/Dante',
-    instagram: 'https://instagram.com/Dante',
-  },
+  
   {
     name: 'Paul Wekulo',
     role: 'Web Developer and Graphic Designer',
